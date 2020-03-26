@@ -1,8 +1,8 @@
 # COVID-19: Analyse internationale et zoom Sénégal
 
-Ce repo contient une base de données mise à jour COVID_Dakar.csv des cas de COVID-19 au Sénégal.
+Ce repo contient les base de données mise à jour : time_series_covid19_confirmed_global.csv,time_series_covid19_deaths_global.csv et COVID_Dakar.csv des cas de COVID-19 au Sénégal.
 
-Les liens suivants peuvent être utilisés comme source de données:
+Les liens suivants peuvent être utilisés comme source de données pour mettre à jour les bases citées ci-dessus:
 Données internationales:https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
 
 Données détaillées Sénégal: https://twitter.com/MinisteredelaS1 et https://github.com/maelfabien/COVID-19-Senegal/blob/master/COVID_Dakar.csv
